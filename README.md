@@ -6,9 +6,9 @@ Terminal veya komut satırında aşağıdaki komutu çalıştırarak projeyi klo
 
 git clone https://github.com/Xyros-tech/Pokemon_Showdown.git
 
-2. Gerekli Bağımlılıkları Yükleyin
+2. Gerekli Gereklikleri Yükleyin
 
-Proje dizinine gidin ve gerekli Python bağımlılıklarını yüklemek için aşağıdaki komutu çalıştırın:
+Proje dizinine gidin ve gerekli Python Gereklikleri yüklemek için aşağıdaki komutu çalıştırın:
 
 pip install -r requirements.txt
 
